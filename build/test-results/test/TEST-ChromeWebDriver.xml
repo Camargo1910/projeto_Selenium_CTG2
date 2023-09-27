@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ChromeWebDriver" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-27T12:28:45" hostname="DESKTOP-AHOCGF1" time="15.953">
+  <properties/>
+  <testcase name="Quando pegar o site, entao deve apresentar o titulo da pagina" classname="ChromeWebDriver" time="15.953"/>
+  <system-out><![CDATA[Titulo encontrado TESTER GLOBAL
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 117.0.5938.92 (67649b10b92bb182fba357831ef7dd6a1baa5648-refs/branch-heads/5938_62@{#14}) on port 34581
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+set 27, 2023 9:28:48 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ADVERTÊNCIA: Unable to find CDP implementation matching 117
+set 27, 2023 9:28:48 AM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+ADVERTÊNCIA: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.8.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+</testsuite>
